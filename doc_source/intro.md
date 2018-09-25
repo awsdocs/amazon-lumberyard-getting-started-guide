@@ -1,6 +1,6 @@
 # Introduction to Lumberyard Editor<a name="intro"></a>
 
-The *Getting Started Guide for Amazon Lumberyard Editor* is a tutorial series that guides you through the basics of building a game in Lumberyard\. You'll create a lush mountainous landscape, build a maze within it, place a player character, position enemy characters, install a simple UI, and finally, export and play your game\. By working through this series, you'll gain an understanding of the fundamental workflows and tools within Lumberyard\. As you proceed, you can refer back to the orientation level, which represents the completed level that you are building\.
+The *Getting Started Guide for Amazon Lumberyard Editor* is a tutorial series that guides you through the basics of building a game in Lumberyard\. You'll create a lush mountainous landscape, build a maze within it, place a player character, position enemy characters, install a simple UI, and finally, export and play your game\. By working through this series, you will gain an understanding of the fundamental workflows and tools within Lumberyard\. As you proceed, you can refer back to the orientation level, which represents the completed level that you are building\.
 
 Before you get started, [install](https://s3.amazonaws.com/gamedev-tutorials/Tutorials/Getting_Started_01_Download-Install-Express_1.10.pdf) Lumberyard\.
 

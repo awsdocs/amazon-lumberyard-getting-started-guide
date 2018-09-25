@@ -4,7 +4,7 @@ To implement global lighting for an entire level, you use a global environment p
 
 You can also affect the environment's light level by changing the time of day\. With the **Time of Day** editor, you can change the sun's position in the sky by specifying any time of day or night\. For advanced usage, you can even script times of day to fixed points in time or animate day\-to\-night cycles at customized speeds\.
 
-In this tutorial, you learn a simple method of changing the current time of day\. For more information about creating time of day effects, see [Creating Time of Day Sky Effects](http://docs.aws.amazon.com/lumberyard/latest/userguide/sky-tod-intro.html) in the *Amazon Lumberyard User Guide*\.
+In this tutorial, you learn a simple method of changing the current time of day\. For more information about creating time of day effects, see [Creating Time of Day Sky Effects](https://docs.aws.amazon.com/lumberyard/latest/userguide/sky-tod-intro.html) in the *Amazon Lumberyard User Guide*\.
 
 **Topics**
 + [Placing a Global Environment Probe](lighting-environment-probe.md)

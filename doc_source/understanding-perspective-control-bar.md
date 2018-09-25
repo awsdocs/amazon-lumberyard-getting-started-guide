@@ -21,6 +21,6 @@ The default navigation speed is `0.10`\. Try speeding up and slowing down your n
 
 1. You can also input custom speeds\. Try a speed of `0.5`, for example\. Try a speed of `5`\. Experiment with the navigation speeds\.
 
-For more information about the other settings in the bottom toolbar, see [Using the Bottom Toolbar](http://docs.aws.amazon.com/lumberyard/latest/userguide/lumberyard-editor-toolbar-bottom.html) in the *Amazon Lumberyard User Guide*\.
+For more information about the other settings in the bottom toolbar, see [Using the Bottom Toolbar](https://docs.aws.amazon.com/lumberyard/latest/userguide/lumberyard-editor-toolbar-bottom.html) in the *Amazon Lumberyard User Guide*\.
 
 [Next: 6: Entity Inspector](understanding-entity-inspector.md)

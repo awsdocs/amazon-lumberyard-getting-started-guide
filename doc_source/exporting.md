@@ -37,5 +37,5 @@ You'll export your game and then play it as an executable file\. Exporting your 
 
 Any changes that you make to your game in Lumberyard Editor require you to export your level again in order to see those changes when you use the game launcher\.
 
-For more information about releasing game builds, see [Creating Game Builds](http://docs.aws.amazon.com/lumberyard/latest/userguide/game-build-intro.html) in the [Amazon Lumberyard User Guide](http://docs.aws.amazon.com/lumberyard/latest/userguide/)\.
+For more information about releasing game builds, see [Creating Game Builds](https://docs.aws.amazon.com/lumberyard/latest/userguide/game-build-intro.html) in the [Amazon Lumberyard User Guide](https://docs.aws.amazon.com/lumberyard/latest/userguide/)\.
 

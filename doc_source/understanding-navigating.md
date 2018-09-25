@@ -26,6 +26,6 @@ To increase strafe speed, hold **Shift** while pressing **W**, **S**, **A**, or 
 + **Alt** \+ right mouse button \(RMB\) \+ drag up or down – Rapid strafe forward and backward
 + **Alt** \+ middle mouse button \(MMB\) \+ direction – Look direction
 
-For a full list of keyboard shortcuts, see [Using Keyboard Shortcuts](http://docs.aws.amazon.com/lumberyard/latest/userguide/lumberyard-editor-shortcut-keys.html) in the *Amazon Lumberyard User Guide*\.
+For a full list of keyboard shortcuts, see [Using Keyboard Shortcuts](https://docs.aws.amazon.com/lumberyard/latest/userguide/lumberyard-editor-shortcut-keys.html) in the *Amazon Lumberyard User Guide*\.
 
 [Next: Manipulating Objects](understanding-manipulating.md)

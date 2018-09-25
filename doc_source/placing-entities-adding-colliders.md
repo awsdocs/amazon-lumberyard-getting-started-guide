@@ -5,7 +5,7 @@
 
 |  | 
 | --- |
-| This topic references tools and features that are [legacy](http://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](http://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](http://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](http://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](http://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
+| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
 
 Characters can interact with entities only when entities have a collider component and a physics component\. Collider components add an outline to your entity in a shape that characters can collide with\. Physics components engage Lumberyard's physics system\. Together, these components give entities their interactive qualities\.
 
@@ -29,7 +29,7 @@ To quickly find a component, enter its name into the **Search** bar\.
 
 The physics component engages Lumberyard's physics system\. Lumberyard includes two types of physics components:
 + **Static Physics** – Properties for objects that require collision information but are not designed to move, such as a building\.
-+ **Rigid Body Physics** – Properties for objects that can be moved by physics\-implemented motion events, such as a ball inteded to roll or a wall intended to fall over\. 
++ **Rigid Body Physics** – Properties for objects that can be moved by physics\-implemented motion events, such as a ball intended to roll or a wall intended to fall over\. 
 
 In this tutorial, you add the **Static Physics** component to your doorway\.
 
