@@ -11,7 +11,7 @@ Currently, the lamps in the level don't cast any light\. To fix this, you create
 1. Still in the **Entity Inspector**, click **Add Component**\. Under **Rendering**, click **Projector Light**\.   
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/lighting--3.png)
 
-   You will notice that components also exist for an [area light](http://docs.aws.amazon.com/lumberyard/latest/userguide/component-area-light.html) and a [point light](http://docs.aws.amazon.com/lumberyard/latest/userguide/component-point-light.html), but for this tutorial you use a projection light\.
+   You will notice that components also exist for an [area light](https://docs.aws.amazon.com/lumberyard/latest/userguide/component-area-light.html) and a [point light](https://docs.aws.amazon.com/lumberyard/latest/userguide/component-point-light.html), but for this tutorial you use a projection light\.
 
 1. In the **Perspective Viewport**, use the **Rotate** tool to rotate the lamp light entity so it points down **Y: 90\.00 degrees\.**  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/lighting--4.png)

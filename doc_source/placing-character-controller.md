@@ -5,7 +5,7 @@
 
 |  | 
 | --- |
-| This topic references tools and features that are [legacy](http://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](http://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](http://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](http://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](http://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
+| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
 
 In this tutorial, you place a player character so that you can move around and explore the level from a player's perspective\. To do this, you drag the character controller slice from the **Asset Browser** into your viewport\. Slices are described in a later tutorial\.
 
@@ -60,8 +60,8 @@ The character controller is Jack the robot, which you played in the previous tut
 [Next: 3: Gathering your Building Blocks](gathering-building-blocks.md)
 
 **Additional Information**
-+ [Component Entity System](http://docs.aws.amazon.com/lumberyard/latest/userguide/component-intro.html)
-+ [Component Reference](http://docs.aws.amazon.com/lumberyard/latest/userguide/component-components.html)
-+ [Entity Outliner](http://docs.aws.amazon.com/lumberyard/latest/userguide/component-entity-outliner.html)
-+ [Entity Inspector](http://docs.aws.amazon.com/lumberyard/latest/userguide/component-entity-inspector.html)
-+ [Asset Browser](http://docs.aws.amazon.com/lumberyard/latest/userguide/asset-browser-intro.html)
++ [Component Entity System](https://docs.aws.amazon.com/lumberyard/latest/userguide/component-intro.html)
++ [Component Reference](https://docs.aws.amazon.com/lumberyard/latest/userguide/component-components.html)
++ [Entity Outliner](https://docs.aws.amazon.com/lumberyard/latest/userguide/component-entity-outliner.html)
++ [Entity Inspector](https://docs.aws.amazon.com/lumberyard/latest/userguide/component-entity-inspector.html)
++ [Asset Browser](https://docs.aws.amazon.com/lumberyard/latest/userguide/asset-browser-intro.html)

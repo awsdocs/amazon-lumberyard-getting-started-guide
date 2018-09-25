@@ -5,7 +5,7 @@
 
 |  | 
 | --- |
-| This topic references tools and features that are [legacy](http://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](http://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](http://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](http://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](http://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
+| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
 
 In this tutorial, you'll set up your game's UI\. To do this, you'll use a prebuilt slice to set up a title screen and a "mission complete" screen\.
 
@@ -36,7 +36,11 @@ In this tutorial, you'll set up your game's UI\. To do this, you'll use a prebui
 
    Select the **MazeCameraStartScreen** entity\.
 
+<<<<<<< HEAD
+   In the upper left of the viewport, right\-click the **Perspective** title bar\. Choose **Camera**, **MazeCameraStartScreen**\.  
+=======
    In the upper-left of the viewport, right\-click the **Perspective** title bar\. Choose **Camera**, **MazeCameraStartScreen**\.  
+>>>>>>> 1eb2b8b0ae4124c1ee383c46cb0229fe4073afd8
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/exporting-mazecamera.png)
 
    Notice that your view changes when you click this option\. That's because you are now viewing the level through this particular entity\.

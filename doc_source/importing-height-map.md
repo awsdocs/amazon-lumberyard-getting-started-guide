@@ -5,9 +5,9 @@ You can import a prebuilt heightmap to quickly place mountains and valleys in yo
 Lumberyard uses heightmaps in the following ways:
 + Bump mapping – Uses 3D data to create shadows in materials
 + Displacement mapping – Determines the geometric position of points over the textured surface
-+ Terrain mapping – Converts heightmap into a terrain [mesh](http://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#mesh)\.
++ Terrain mapping – Converts heightmap into a terrain [mesh](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#mesh)\.
 
-Lumberyard also has a set of [terrain generation and manipulation tools](http://docs.aws.amazon.com/lumberyard/latest/userguide/terrain-landforms-intro.html) that you can use to create terrain from scratch\. 
+Lumberyard also has a set of [terrain generation and manipulation tools](https://docs.aws.amazon.com/lumberyard/latest/userguide/terrain-landforms-intro.html) that you can use to create terrain from scratch\. 
 
 For this tutorial, you'll create terrain by importing a heightmap\.
 
