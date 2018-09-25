@@ -4,5 +4,4 @@ The Amazon Lumberyard Documentation team is continuously writing and improving t
 + [Lumberyard online documentation](https://aws.amazon.com/documentation/lumberyard/)
 + [Lumberyard tutorials](https://gamedev.amazon.com/forums/tutorials)
 
-You can also see the `docs` folder in the Lumberyard directory for help topics about using Amazon Lumberyard\.
-
+You can also refer to the `docs` folder in the Lumberyard directory for help topics about using Lumberyard\.
