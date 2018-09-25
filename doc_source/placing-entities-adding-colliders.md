@@ -29,7 +29,7 @@ To quickly find a component, enter its name into the **Search** bar\.
 
 The physics component engages Lumberyard's physics system\. Lumberyard includes two types of physics components:
 + **Static Physics** – Properties for objects that require collision information but are not designed to move, such as a building\.
-+ **Rigid Body Physics** – Properties for objects that can be moved by physics\-implemented motion events, such as a ball inteded to roll or a wall intended to fall over\. 
++ **Rigid Body Physics** – Properties for objects that can be moved by physics\-implemented motion events, such as a ball intended to roll or a wall intended to fall over\. 
 
 In this tutorial, you add the **Static Physics** component to your doorway\.
 
