@@ -36,7 +36,7 @@ In this tutorial, you'll set up your game's UI\. To do this, you'll use a prebui
 
    Select the **MazeCameraStartScreen** entity\.
 
-   In the viewport's upper left corner, right\-click the **Perspective** title bar\. Choose **Camera**, **MazeCameraStartScreen**\.  
+   In the upper-left of the viewport, right\-click the **Perspective** title bar\. Choose **Camera**, **MazeCameraStartScreen**\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/exporting-mazecamera.png)
 
    Notice that your view changes when you click this option\. That's because you are now viewing the level through this particular entity\.
