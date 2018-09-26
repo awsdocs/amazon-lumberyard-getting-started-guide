@@ -1,4 +1,4 @@
-# 1: Understanding the Lumberyard Interface<a name="understanding"></a>
+# 1: Understanding the Amazon Lumberyard Interface<a name="understanding"></a>
 
 
 ****  
