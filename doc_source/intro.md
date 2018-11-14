@@ -26,6 +26,6 @@ The intent of this series is to create your own level 'from scratch' and follow 
 
 1. In the **Welcome to Lumberyard** screen, click **Open Level**\.
 
-1. Navigate to `Levels\GettingStartedGuide`\. Select the level that you want to open and then click **Open**\.
+1. Navigate to the `Levels\GettingStartedGuide` directory, select the level that you want, and then click **Open**\.
 
 [Start: 1: Understanding the Lumberyard Interface](understanding.md)

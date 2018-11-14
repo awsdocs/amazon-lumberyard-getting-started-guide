@@ -1,12 +1,5 @@
 # 1: Understanding the Lumberyard Interface<a name="understanding"></a>
 
-
-****  
-
-|  | 
-| --- |
-| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
-
 In this section, you learn the basics of Lumberyard's interface\. You also explore and play the completed level for this tutorial series, giving you a solid understanding of what you'll be building\.
 
 This tutorial shows you how to do the following:
@@ -31,19 +24,19 @@ To familiarize you with Lumberyard's opening screen and basic controls, open the
    The **Welcome** screen appears by default each time you open Lumberyard\.
 
    On the welcome screen, you see the following:
-   + **A** – **Current Project** – Displays the project that you are currently working on\. If you click the project name, the following options appear:
-     + **Switch project** – Closes Lumberyard Editor and opens the **Project Configurator**, which you can use to switch to another project\.
-     + **Setup Assistant** – Closes Lumberyard Editor and opens Lumberyard Setup Assistant, where you can customize your build options\.
-   + **B** – **Welcome** messages – Displays the latest news about Lumberyard and its partners\.
-   + **C** – **Documentation and Tutorials** – Opens the Lumberyard support page where you can find other tutorials and documentation about Lumberyard\.
-   + **D** – **Welcome** screen options – Select check boxes to **Auto\-load last opened level on startup** or **Skip this dialog on startup**\.  
+
+   1. **Current Project** – Displays the project that you are currently working on\. If you click the project name, the following options appear:
+      + **Switch project** – Closes Lumberyard Editor and opens the **Project Configurator**, which you can use to switch to another project\.
+      + **Setup Assistant** – Closes Lumberyard Editor and opens Lumberyard Setup Assistant, where you can customize your build options\.
+
+   1. **Welcome** messages – Displays the latest news about Lumberyard and its partners\.
+
+   1. **Documentation and Tutorials** – Opens the Lumberyard support page where you can find other tutorials and documentation about Lumberyard\.
+
+   1. **Welcome** screen options – Select check boxes to **Auto\-load last opened level on startup** or **Skip this dialog on startup**\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/understanding-welcome.png)
 
-1. Click **Open level**\.
-
-   Navigate to `Levels/GettingStartedGuide`\. 
-
-   Choose `GSG_01_Orientation` and then click **Open**\.  
+1. Choose **Open level**, navigate to `Levels/GettingStartedGuide`, select `GSG_01_Orientation` and then choose **Open**\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/understanding-open.png)
 
    The orientation level opens\. It looks similar to the following image\.  

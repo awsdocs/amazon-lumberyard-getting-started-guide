@@ -1,12 +1,5 @@
 # Placing the Player Character<a name="placing-character-controller"></a>
 
-
-****  
-
-|  | 
-| --- |
-| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
-
 In this tutorial, you place a player character so that you can move around and explore the level from a player's perspective\. To do this, you drag the character controller slice from the **Asset Browser** into your viewport\. Slices are described in a later tutorial\.
 
 The character controller is Jack the robot, which you played in the previous tutorial in the orientation level\. You also place the camera manager slice, which improves player input controls from the keyboard\. The camera manager slice also helps to manage the switching of additional cameras, which you place later in this tutorial series\. 
@@ -18,7 +11,7 @@ The character controller is Jack the robot, which you played in the previous tut
 1. In the **Asset Browser**, navigate to `StarterGame/slices`\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/placing-character-controller-asset-browser.png)
 
-1. Drag `playerslice.slice` into the viewport\.
+1. Drag `playerslice_efx.slice` into the viewport\.
 
    This places the robot character into your level, which you can control\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/placing-character-controller-small.png)

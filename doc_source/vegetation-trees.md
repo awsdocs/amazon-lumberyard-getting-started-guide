@@ -1,6 +1,6 @@
 # Placing Trees<a name="vegetation-trees"></a>
 
-You can use the **Vegetation** tool in the **Rollup Bar** to quickly and easily place any number and combination of mesh objects in your level\.
+You can use the **Terrain Tool** to quickly and easily place any number and combination of mesh objects in your level\.
 
 You use this tool to place vegetation such as trees, shrubs, and grasses around and inside your maze\. 
 
@@ -11,9 +11,11 @@ Be mindful when placing a large number of mesh objects, as performance can suffe
 
 **To paint trees into your scene**
 
-1. If the **Rollup Bar** is not open, open it from the main menu by choosing **Tools**, **RollupBar \(LEGACY\)**\.
+1. In Lumberyard Editor, choose **Tools**, **Terrain Tool**\.
 
-1. In the **Rollup Bar**, on the **Terrain** tab, click **Vegetation**\.  
+1. In the **Terrain Tool**, choose **Vegetation**\.
+
+1.   
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/vegetation-trees-terraintab.png)
 
 1. To paint different types of trees into the scene with one stroke, you must set up a category\.

@@ -1,14 +1,13 @@
 # Painting Pavement, Grass, Dirt, and Rocks<a name="vegetation-paint"></a>
 
-You now use the terrain texture layers that you created to paint those assigned materials onto your terrain\. To do this, you use a terrain tool in the **Rollup Bar** called **Layer Painter**\. After setting a color for a texture, you use that texture to paint your terrain\.
+You now use the terrain texture layers that you created to paint those assigned materials onto your terrain\. To do this, use the **Layer Painter** in the **Terrain Tool**\. After setting a color for a texture, you use that texture to paint your terrain\.
 
 **To paint your terrain**
 
-1. To open the **Rollup Bar**, from the main menu choose **Tools**, **RollupBar \(LEGACY\)**\.  
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/vegetation-paint-rollupbar.png)
+1. In the Lumberyard Editor main menu, choose **Tools**, **Terrain Tool**\.
 
-1. In the **Rollup Bar**, choose the second tab, **Terrain Editing**\. Click **Layer Painter**\.  
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/vegetation-paint-terrain.png)
+1. In the **Terrain Tool**, choose **Layer Painter**\.  
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/vegetation-paint-terrain-tool.png)
 
 1. At the bottom of the panel is the list of the terrain texture layers that you created\. The texture layers contain the texture and the material of the paint, but not the color\.
 

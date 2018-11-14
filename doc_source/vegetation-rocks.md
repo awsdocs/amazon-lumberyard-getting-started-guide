@@ -6,9 +6,11 @@ To better focus on a particular vegetation category, you can temporarily hide gr
 
 **To insert rocks into your landscape**
 
-1. If the **Rollup Bar** is not open, open it from the main menu by choosing **Tools**, **RollupBar \(LEGACY\)**\.
+1. In Lumberyard Editor, choose **Tools**, **Terrain Tool**\.
 
-1. In the **Rollup Bar**, on the **Terrain** tab, click **Vegetation**\.  
+1. In the **Terrain Tool**, choose **Vegetation**\.
+
+1.   
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/vegetation-trees-terraintab.png)
 
 1. Create a new category and name it **Rocks**\.

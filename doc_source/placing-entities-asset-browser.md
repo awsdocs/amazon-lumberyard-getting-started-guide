@@ -1,12 +1,5 @@
 # Using the Asset Browser to Create an Entity<a name="placing-entities-asset-browser"></a>
 
-
-****  
-
-|  | 
-| --- |
-| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
-
 You can also use Lumberyard's **Asset Browser** to create an entity in your level\. 
 
 The **Asset Browser** appears by default in Lumberyard's bottom left corner and displays a tree view of the files in your project directory\. You can drag an asset file directly from the asset browser into your viewport\. When you do, Lumberyard automatically adds the **Mesh** component and sets the **Mesh asset** as the file you dragged\. 
