@@ -6,7 +6,7 @@ You use the **Terrain Texture Layers** tool to create your texture layers\. You 
 
 **To create texture layers**
 
-1. Open the **Terrain Texture Layers** editor\. To do this, on the main menu, choose **Tools**, **Other**, **Terrain Texture Layers**\.
+1. In Lumberyard Editor, choose **Tools**, **Other**, **Terrain Texture Layers**\.
 
    The **Terrain Texture Layers** editor displays the **Default** layer\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/vegetation-texturelayers-editordefault.png)

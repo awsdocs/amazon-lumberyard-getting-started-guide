@@ -36,7 +36,7 @@ Currently, the lamps in the level don't cast any light\. To fix this, you create
    In the **Entity Outliner**, drag the **lamplight** entity into the **Lamp** parent slice that you have been working near\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/lighting--8.png)
 
-1. Now that the **lamplight** is in one of the lamp entities, under the **LampParent **group, right\-click the lamp entity and choose**Save slice overrides**, **maze\_lamp\.slice**\. This saves your changes to the source slice\.  
+1. Now that the **lamplight** is in one of the lamp entities, under the **LampParent **group, right\-click the lamp entity and choose **Save slice overrides**, **maze\_lamp\.slice**\. This saves your changes to the source slice\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/lighting--9.png)
 
 1. All the lamp posts in your scene should now be casting light\.  

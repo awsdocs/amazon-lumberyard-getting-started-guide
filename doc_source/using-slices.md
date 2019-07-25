@@ -1,12 +1,5 @@
 # 4: Using Slices to Build the Maze<a name="using-slices"></a>
 
-
-****  
-
-|  | 
-| --- |
-| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
-
 A slice is a special kind of asset \(a `.slice` file\) that is composed of a group of entities and their components\. You can place, or instantiate, slices throughout your level quickly and easily\. If you modify one slice instance, such as adding a component or changing a property, you can save your changes to update all the other slice instances\.
 
 You can also independently edit an individual slice instance and then not save the change\. This results in a unique slice instance\.

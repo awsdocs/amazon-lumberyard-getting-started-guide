@@ -3,7 +3,6 @@
 This tutorial shows you how to do the following:
 + [Create a level](creating-new-level.md)
 + [Import a heightmap](importing-height-map.md)
-+ [Remove the ocean](importing-remove-ocean.md)
 + [Import a mega terrain texture](importing-mega-terrain.md)
 + [Place a player character and camera manager](placing-character-controller.md)
 

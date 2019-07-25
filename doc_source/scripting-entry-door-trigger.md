@@ -18,7 +18,7 @@ A trigger area is an invisible cube that you can set to trigger an action when a
    Click **Add Required Component**, and then click **Box Shape**\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/scripting-entry-door-trigger-required.png)
 
-1. Set the box shape's **Dimensions** to **X**: **4\.00** m, **Y**: **5\.00** m, **Z**: **5\.00** m\.  
+1. Set the box shape's **Dimensions** to **X**: **4\.00** m, **Y**: **4\.00** m, **Z**: **5\.00** m\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/scripting-entry-door-trigger-dimensions.png)
 
 1. Use the **Move** tool to adjust the position of the box\-shaped trigger area so that it is just outside of the door\. Align its edge with the inside edge of the door\.  

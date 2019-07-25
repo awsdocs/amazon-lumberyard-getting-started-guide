@@ -1,6 +1,6 @@
 # 5: Adding Enemy AI Characters<a name="ai"></a>
 
-Lumberyard uses artificial intelligence, or AI, to create responsive behavior in nonplayer characters \(NPCs\)\. NPCs are typically placed as enemy characters\. Adding these AI opponents to your level adds conflict and tension to the player's experience\.
+Lumberyard uses artificial intelligence, or AI, to create responsive behavior in non\-player characters \(NPCs\)\. NPCs are typically placed as enemy characters\. Adding these AI opponents to your level adds conflict and tension to the player's experience\.
 
 In the following tutorials you learn how to set up and place enemy AI characters within the maze area\. You use component entities and a Lua script to create a simple AI experience\.
 

@@ -1,7 +1,7 @@
 # Lumberyard Getting Started Guide
 
 -----
-*****Copyright &copy; 2018 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy; 2019 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -38,7 +38,6 @@ Amazon's trademarks and trade dress may not be used in
 + [2: Building the Environment](creating-environment.md)
    + [Creating a Level](creating-new-level.md)
    + [Importing a Heightmap](importing-height-map.md)
-   + [Removing the Ocean](importing-remove-ocean.md)
    + [Importing a Megaterrain Texture](importing-mega-terrain.md)
    + [Placing the Player Character](placing-character-controller.md)
 + [3: Gathering Your Building Blocks](gathering-building-blocks.md)

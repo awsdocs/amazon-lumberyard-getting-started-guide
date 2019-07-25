@@ -4,9 +4,9 @@ The grass texture that you added to your terrain provides a good base color and 
 
 **To add shrubs and grasses**
 
-1. If the **Rollup Bar** is not open, open it by clicking in the main menu **Tools**, **RollupBar \(LEGACY\)**\.
+1. In Lumberyard Editor, choose **Tools**, **Terrain Tool**\.
 
-1. In the **Rollup Bar**, on the **Terrain** tab, click **Vegetation**\.  
+1. In the **Terrain Tool**, choose **Vegetation**\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/vegetation-trees-terraintab.png)
 
 1. To paint different types of grasses and shrubs into the scene with one stroke, you must set up a new category\.

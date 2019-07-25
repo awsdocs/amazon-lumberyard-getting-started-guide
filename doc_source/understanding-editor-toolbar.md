@@ -1,6 +1,6 @@
 # 2: Top Toolbar<a name="understanding-editor-toolbar"></a>
 
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/understanding-toolbar.png)
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/understanding-toolbar.jpg)
 
 The top toolbar features quick access to Lumberyard's most commonly used tools and editors, such as the **Select**, **Move**, **Rotate**, and **Scale** tools\. You'll learn more about these tools and editors as you proceed through this tutorial series\.
 

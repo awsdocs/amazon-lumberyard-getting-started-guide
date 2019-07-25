@@ -1,12 +1,5 @@
 # 3: Gathering Your Building Blocks<a name="gathering-building-blocks"></a>
 
-
-****  
-
-|  | 
-| --- |
-| This topic references tools and features that are [legacy](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#legacy)\. If you want to use legacy tools in Lumberyard Editor, disable the [CryEntity Removal gem](https://docs.aws.amazon.com/lumberyard/latest/userguide/gems-system-cryentity-removal-gem.html) using the [Project Configurator](https://docs.aws.amazon.com/lumberyard/latest/userguide/configurator-intro.html) or the [command line](https://docs.aws.amazon.com/lumberyard/latest/userguide/lmbr-exe.html)\. To learn more about legacy features, see the [Amazon Lumberyard Legacy Reference](https://docs.aws.amazon.com/lumberyard/latest/legacyreference/)\. | 
-
 In this tutorial, you use component entities and slices to begin building the maze\. In a later tutorial, you use Lumberyard's component entity system to place game elements such as [meshes](https://docs.aws.amazon.com/lumberyard/latest/userguide/ly-glos-chap.html#mesh), lights, sounds, trigger areas, cameras, and more\. This is a key workflow in Lumberyard\. The slices system is Lumberyard's version of what other game engines call *prefabs*\. You can use slices, which are easily updated, to quickly develop your project\. 
 
 When placing entities, you typically begin with an empty entity\. You then add components to it to define the appearance, behavior, and properties of that entity\. 

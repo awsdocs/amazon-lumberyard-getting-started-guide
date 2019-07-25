@@ -2,7 +2,7 @@
 
 The *Getting Started Guide for Amazon Lumberyard Editor* is a tutorial series that guides you through the basics of building a game in Lumberyard\. You'll create a lush mountainous landscape, build a maze within it, place a player character, position enemy characters, install a simple UI, and finally, export and play your game\. By working through this series, you will gain an understanding of the fundamental workflows and tools within Lumberyard\. As you proceed, you can refer back to the orientation level, which represents the completed level that you are building\.
 
-Before you get started, [install](https://s3.amazonaws.com/gamedev-tutorials/Tutorials/Getting_Started_01_Download-Install-Express_1.10.pdf) Lumberyard\.
+Before you get started, [install](https://docs.aws.amazon.com/lumberyard/latest/userguide/setting-up-intro.html) Lumberyard\.
 
 Each of the tutorials in this 12\-part tutorial series teaches or demonstrates a Lumberyard concept\. Each tutorial takes 10 to 30 minutes, depending on your level of experience\.
 + [1: Understanding the Lumberyard Interface](understanding.md) – Open the orientation level to explore and learn Lumberyard's basic manipulation and navigation tools\. This level also represents the end product of the game you'll build during this series\. Refer to this level whenever you want to compare your level to the completed level\.
@@ -26,6 +26,6 @@ The intent of this series is to create your own level 'from scratch' and follow 
 
 1. In the **Welcome to Lumberyard** screen, click **Open Level**\.
 
-1. Navigate to `Levels\GettingStartedGuide`\. Select the level that you want to open and then click **Open**\.
+1. Navigate to the `Levels\GettingStartedGuide` directory, select the level that you want, and then click **Open**\.
 
 [Start: 1: Understanding the Lumberyard Interface](understanding.md)

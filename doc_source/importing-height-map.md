@@ -26,12 +26,13 @@ For this tutorial, you'll create terrain by importing a heightmap\.
 1. Choose **File**, **Import Heightmap**\.   
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/importing-height-map-import.png)
 
-   Navigate to `\dev\StarterGame\Textures\Heightmaps` and select `FTUE_heightmap_test.tif`\.
+   The default path may appear as `\dev\Cache\StarterGame\pc\startergame`\. You must navigate to `\dev\StarterGame\Textures\Heightmaps` and select `FTUE_heightmap_test.tif`\.
+
+   If you opened this file in an image viewer, it would look like this\. Black represents minimum height, and white represents maximum height\.  
+![\[View of the heightmap image, which you can open in an image viewer.\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/importing-height-map-image.png)
 
    In your viewport, you see the initial creation of valleys and mountains as determined by the heightmap\.
 
 1. Press **Ctrl\+S** to save your level\.
 
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/importing-height-map.png)
-
-[Next: Removing the Ocean](importing-remove-ocean.md)
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/importing-remove-ocean-gone.png)
