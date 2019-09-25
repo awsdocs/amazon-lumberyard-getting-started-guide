@@ -22,7 +22,7 @@ The intent of this series is to create your own level 'from scratch' and follow 
 
 **To open a prebuilt level file**
 
-1. [Install](https://s3.amazonaws.com/gamedev-tutorials/Tutorials/Getting_Started_01_Download-Install-Express_1.10.pdf) and open Lumberyard\.
+1. [Install](https://docs.aws.amazon.com/lumberyard/latest/userguide/setting-up-intro.html) and open Lumberyard\.
 
 1. In the **Welcome to Lumberyard** screen, click **Open Level**\.
 
