@@ -26,7 +26,14 @@ In this tutorial, create and set up the AI navigation area with the **Navigation
 1. In the **Polygon Prism Shape** component, for **Height**, enter `3.0` meters\.  
 ![\[Polygon Component Shape component property.\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/ai-navigation-area-3.png)
 
-1. In the Lumberyard Editor main menu, choose **Game**, **AI**, **View Agent Type**, **MediumSizedCharacters**\. A blue box appears inside the navigation area volume that you created\. The AI characters use this blue region to define the path data, so that they can navigate through the play space\.  
+1. In the Lumberyard Editor main menu, choose **Game**, **AI**, **View Agent Type**, **MediumSizedCharacters**\. 
+
+   **MediumSizedCharacters** should be toggled on and appear with a check mark in the **AI** menu\.
+
+   A blue box appears inside the navigation area volume that you created\. The AI characters use this blue region to define the path data, so that they can navigate through the play space\.
+**Note**  
+If the blue box doesn't appear, toggle off **Visualize Navigation Accessibility**\. To do this, choose **Game**, **AI**, **Visualize Navigation Accessibility**\.  
+If the box still doesn't appear, ensure that **Continuous Update** is on\. To do this, choose, **Game**, **AI**, **Continuous Update**\.  
 ![\[Polygon Component Shape component property.\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/ai-navigation-area-4.png)
 
 1. Select the **AiNavigation** entity and in the toolbar, click the **Align to object** icon![\[Image NOT FOUND\]](http://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/images/ai-navigation-area-5.png) , and then click the **maze\_wall\_exterior** or **maze\_wall\_interior** entity in the center of the maze\.  
